@@ -1,5 +1,10 @@
 # Week 1: Introduction to Law, Legal Forms of Business and Alternative Dispute Resolution
 
+- Define the functions of law in society.
+- Define the role of law in business.
+- Differentiate among the legal forms of business.
+- Differentiate among non-judicial methods of alternative dispute resolution.
+
 ## Assignment
 
 Write a paper of no more than 1,050 words reviewing a state level (not federal) business dispute taken either from your own experience, the text, or your own personal research. Include the following:
