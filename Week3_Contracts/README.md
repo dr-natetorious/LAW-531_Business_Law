@@ -7,6 +7,11 @@
 
 ## Assignment
 
+- [Discussions](Discussions.md)
+- [Contracts and Intellectual Property Drafting Exercise - Learning Team c](Contracts%20and%20Intellectual%20Property%20Drafting%20Exercise%20-%20Learning%20Team%20c.docx)
+
+### Contracts and Intellectual Property Drafting Exercise
+
 Draft a contract clause regarding one of the following topics:
 
 - Dispute Resolution Clause

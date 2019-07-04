@@ -3,7 +3,12 @@
 - Evaluate legal risks associated with domestic and international business activities.
 - Identify the basic powers agencies possess and the fundamental statutory and constitutional limits on their exercise of those powers.
 
-## Assignment
+## Assignments
+
+- [Discussions](Discussions.md)
+- [Week6_Global_Law](Week6_Global_Law.docx)
+
+### U.S. & Global Administrative Law
 
 The U.S. possesses more extensive and expansive administrative law than any other nation.
 

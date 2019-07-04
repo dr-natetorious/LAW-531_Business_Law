@@ -7,6 +7,11 @@
 
 ## Assignment
 
+- [Discussion Topics](Discussions.md)
+- [Week 1 - Alternative Dispute Resolution.docx](Week%201%20-%20Alternative%20Dispute%20Resolution.docx)
+
+### Alternative Dispute Resolution Paper
+
 Write a paper of no more than 1,050 words reviewing a state level (not federal) business dispute taken either from your own experience, the text, or your own personal research. Include the following:
 
 - Describe the legal form of business of the business involved in the dispute.  

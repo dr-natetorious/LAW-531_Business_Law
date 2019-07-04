@@ -7,6 +7,9 @@
 
 ## Assignments
 
+- [week2-1.pptx](week2-1.pptx)
+- [Week 2 - Ethical and Criminal Responsibility.docx](Week%202%20-%20Ethical%20and%20Criminal%20Responsibility.docx)
+
 ### Torts & Criminal Liability Presentation
 
 Create an 8- to 10-slide Microsoft® PowerPoint® presentation in which the team members provide a description of the various torts covered in the text. Include torts of negligence, intentional torts and strict liability torts.

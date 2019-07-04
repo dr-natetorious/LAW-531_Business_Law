@@ -5,6 +5,10 @@
 
 ## Assignments
 
+- [Discussions](Discussions.md)
+- [Week 4 - Employment Law and Discrimination](Week%204%20-%20Employment%20Law%20and%20Discrimination.docx)
+- [Week4-1.pptx](Week4-1.pptx)
+
 ### Discrimination Issues
 
 Create an 8- to 10-slide Microsoft® PowerPoint® presentation in which the team members summarize the key points of the members' individual assignments and defend the individual findings. In addition, include a review of the possible types of discrimination issues applicable in a work environment.

@@ -6,6 +6,10 @@
 
 ## Assignments
 
+- [Discussions](Discussions.md)
+- [Week 5 - Regulatory and Compliance](Week%205%20-%20Regulatory%20and%20Compliance.docx)
+- [Week_5-IRAC_Team-C.pptx](Week_5-IRAC_Team-C.pptx)
+
 ### IRAC
 
 Read "The IRAC method of case study analysis" in the Week 5 Electronic Reserve Readings.
